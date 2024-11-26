@@ -20,3 +20,10 @@ python main.py --file example.txt --video
 
 
 
+https://github.com/user-attachments/assets/c2a6e0d0-5b08-4840-ba76-f028b7e3715e
+
+
+
+
+https://github.com/user-attachments/assets/8e8915cc-eb6d-43a0-b3fa-44bffdbe3ef7
+
